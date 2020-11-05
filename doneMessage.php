@@ -1,4 +1,5 @@
 <?php
+//汪冠儀是大笨蛋
 session_start();
 require("dbconnect.php");
 $sql = "select * from todo1 where status = 2;";

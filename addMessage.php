@@ -1,4 +1,5 @@
 <?php
+//hello
 require("dbconnect.php");
 $title=mysqli_real_escape_string($conn,$_POST['title']);
 $content=mysqli_real_escape_string($conn,$_POST['content']);
