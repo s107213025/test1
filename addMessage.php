@@ -13,5 +13,5 @@ if ($title) { //if title is not empty
 } else {
 	$msg= "Message title cannot be empty";
 }
-
+// 麻煩死了
 ?>
